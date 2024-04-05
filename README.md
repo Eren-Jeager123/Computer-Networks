@@ -1,2 +1,2 @@
 # Computer-Networks
-Computer Networks Labs.
+Computer Networks Labs @ PKU.
